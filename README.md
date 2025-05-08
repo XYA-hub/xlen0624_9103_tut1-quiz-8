@@ -2,13 +2,13 @@
 ## Part 1: Imaging Technique Inspiration
 I chose the world-renowned painting "The Scream" as the original component for my re-creation.
 ![An image of The Scream]("readmeImages\The Scream.jpg")
-1. Bacground Item
+**Bold Text** or __1. Bacground Item__
 I want to transform the background of the shouting scene into a series of flowing lines. As time goes by, the lines gradually fill in the white space from the periphery of the picture towards the center, resembling a flowing river.
 ![An image of The Background Line]("readmeImages\lines gradually flow and become brighter..png")
-2. Characters Appear Item
+**Bold Text** or __2. Characters Appear Item__
 After the background was completed, the screaming little figure appeared in the center of the screen.
 ![An image of a pattern suddenly appeared]("rreadmeImages\Suddenly, a pattern suddenly appeared..png")
-3. Characters Interaction Item
+**Bold Text** or __3. Characters Interaction Item__
 The screaming little figure transforms into a composition of several blocks. When clicked with the mouse, there will be a collision effect that causes the blocks to explode.
 ![An image of no explode]("readmeImages\no explode.png")
 ![An image of explode](" readmeImages\explode.jpg")
